@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=B.Tech+AI+%26+DS+Student;Learning+DSA+and+Competitive+Programming;Building+My+Software+Engineering+Journey" />
+</p>
 
 <!--
 **Sanjay-kumar-10/Sanjay-kumar-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 ### 🚀 B.Tech Artificial Intelligence & Data Science Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=AI+%26+DS+Student;Competitive+Programmer;Machine+Learning+Enthusiast;Future+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=AI+%26+DS+Student;Competitive+Programmer;Machine+Learning+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
